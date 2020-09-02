@@ -1,0 +1,10 @@
+C:\Users\p70068513\Dropbox\Research\2020\Data Analysis, TimePix\timepix3_library\target\release\deps\noisy_float-842795484428660c.rmeta: C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\lib.rs C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\float_impl.rs C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\checkers.rs C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\types.rs
+
+C:\Users\p70068513\Dropbox\Research\2020\Data Analysis, TimePix\timepix3_library\target\release\deps\libnoisy_float-842795484428660c.rlib: C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\lib.rs C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\float_impl.rs C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\checkers.rs C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\types.rs
+
+C:\Users\p70068513\Dropbox\Research\2020\Data Analysis, TimePix\timepix3_library\target\release\deps\noisy_float-842795484428660c.d: C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\lib.rs C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\float_impl.rs C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\checkers.rs C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\types.rs
+
+C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\lib.rs:
+C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\float_impl.rs:
+C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\checkers.rs:
+C:\Users\p70068513\.cargo\registry\src\github.com-1ecc6299db9ec823\noisy_float-0.1.12\src\types.rs:
